@@ -1,5 +1,10 @@
 # Cybersecurity-Portfolio
-Documenting cybersecurity learning and projects.
+Welcome!
+
+This repository documents my cybersecurity learning journey through:
+
+- TryHackMe
+- PicoCTF
 
 Each File Include:
   1. Learning Objectives
