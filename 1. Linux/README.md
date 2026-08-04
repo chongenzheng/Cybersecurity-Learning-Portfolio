@@ -1,6 +1,6 @@
 ## Learning Objectives：
   This module focuses on building a solid Linux foundation for cybersecurity.
----
+
 ## Knowledge Sources： 
 ### Master Course：
   - Topic covered:
@@ -21,16 +21,16 @@
     - GNU Core Utilities Documentation
 
 ## Commands Learned
-  - Navigation: ```pwd```,```cd```,```ls```
-  - File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
-  - Searching: ```find```, ```grep```, ```locate```
-  - Permissions: ```chmod```, ```chown```
-  - Networking: ```ssh```, ```scp```, ```netstat```
-  - Compression: ```zip```, ```unzip```, ```tar```
-  - Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
+  - Navigation: `pwd`,`cd`,`ls`
+  - File Operations: `cp`, `mv`, `rm`, `touch`, `mkdir`
+  - Searching: `find`, `grep`, `locate`
+  - Permissions: `chmod`, `chown`
+  - Networking: `ssh`, `scp`, `netstat`
+  - Compression: `zip`, `unzip`, `tar`
+  - Utilities: `cat`, `less`, `head`, `tail`, `file`, `strings`
 
 ## Hands-on Practice:
-### picoCTF Challenge Completed: 
+  - picoCTF Challenge Completed: 
 
 ## Challenges & Troubleshooting:
 ### Challenge 1
@@ -38,7 +38,7 @@
     Initially, I thought all Linux commands could be executed as a normal user.
     Root Cause: Some directories require root privileges.
   - Solution:
-    Checked file ownership using ```ls -l``` and used ```sudo``` only when administrative privileges were required.
+    Checked file ownership using `ls -l` and used `sudo` only when administrative privileges were required.
   - Learned:
     Understanding Linux permissions is more important than memorizing commands.
 ### Challenge 2
