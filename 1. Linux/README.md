@@ -37,15 +37,22 @@
   - Problem: <br>
       I repeatedly received a "Permission denied" error when modifying system directories.
       Initially, I thought all Linux commands could be executed as a normal user.<br>
-      ```Root Cause: Some directories require root privileges.```
+  - Root Cause: <br>Some directories require root privileges.
   - Solution:<br>
     Checked file ownership using `ls -l` and used `sudo` only when administrative privileges were required.
   - Learned:<br>
     Understanding Linux permissions is more important than memorizing commands.
 ### Challenge 2
-**Problem:<br>**
-    Some challenge files could not be interpreted correctly using `cat`. Instead of readable text, the output appeared as unreadable characters.
-  Solution:
+- Problem:<br>
+  Some challenge files could not be interpreted correctly using `cat`. Instead of readable text, the output appeared as unreadable characters.
+- Root Cause:<br>
+Some files were binary rather than plain text, so `cat` displayed raw binary data instead of meaningful information.
+- Solution:<br>
+  - Used commands such as:
+    - `file` to identify the file type
+    - `strings` to extract readable text from binary files
+    - `xxd` or `hexdump` when examining binary content
+- Lesson Learned:<br>Choosing the appropriate command based on the file type is more effective than relying on a single command for every situation.
 
 ## Key Takeaways:
   - Linux proficiency is a fundamental cybersecurity skill because many servers, cloud environments, and security tools run on Linux.
