@@ -34,12 +34,13 @@
 
 ## Challenges & Troubleshooting:
 ### Challenge 1
-  - Problem: <br>I repeatedly received a "Permission denied" error when modifying system directories.
-    Initially, I thought all Linux commands could be executed as a normal user.<br>
-    Root Cause: Some directories require root privileges.
-  - Solution:
+  - Problem: <br>
+      I repeatedly received a "Permission denied" error when modifying system directories.
+      Initially, I thought all Linux commands could be executed as a normal user.<br>
+      Root Cause: Some directories require root privileges.
+  - Solution:<br>
     Checked file ownership using `ls -l` and used `sudo` only when administrative privileges were required.
-  - Learned:
+  - Learned:<br>
     Understanding Linux permissions is more important than memorizing commands.
 ### Challenge 2
     Initially, I thought:
