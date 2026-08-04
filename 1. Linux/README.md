@@ -3,22 +3,22 @@ Learning Objectives：
 
 Knowledge Sources： 
 - Master Course：
--   Topic covered:
+  - Topic covered:
     - Linux shell
-    File system
-    Processes
-    Networking
-    Bash scripting
-    Package management
-    Permissions
-    System services
+    - File system
+    - Processes
+    -Networking
+    -Bash scripting
+    -Package management
+    -Permissions
+    -System services
 - TryHackMe:
-    Completed: Linux Fundamentals Model
+    -Completed: Linux Fundamentals Model
 - picoCTF:
-    Completed: General Skill
+    -Completed: General Skill
 - Documentation:
-    Linux man pages
-    GNU Core Utilities Documentation
+    -Linux man pages
+    -GNU Core Utilities Documentation
 
 Hands-on Practice:
 - picoCTF Challenge Completed:
@@ -26,13 +26,13 @@ Hands-on Practice:
 
 Challenges & Troubleshooting:
 - Challenge 1
-  Problem:
+  -Problem:
     I repeatedly received a "Permission denied" error when modifying system directories.
     Initially, I thought all Linux commands could be executed as a normal user.
     Root Cause: Some directories require root privileges.
-  Solution:
+  -Solution:
     Checked file ownership using "ls -l" and used "sudo" only when administrative privileges were required.
-  Learned:
+  -Learned:
     Understanding Linux permissions is more important than memorizing commands.
 - Challenge 2
     Initially, I thought:
