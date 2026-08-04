@@ -3,8 +3,8 @@ Learning Objectives：
 
 Knowledge Sources： 
 - Master Course：
-  Topic covered:
-    Linux shell
+  -Topic covered:
+    - Linux shell
     File system
     Processes
     Networking
