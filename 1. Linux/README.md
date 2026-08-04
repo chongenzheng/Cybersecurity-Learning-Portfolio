@@ -3,18 +3,15 @@ Learning Objectives：
 
 Knowledge Sources： 
 - Master Course：
-    1. Commands, shells, processes, files.
-    2. Virtualization
-    3. Package management
-    4. Networking
-    5. Network File System (NFS)
-    6. Shell scripts
-    7. Start/stop services, environment file, job scheduling.
-    8. Python scripting in Linux
-    9. More Python modules
-    10. Application compilation
-    11. Security topics
-    12. Introduction to GPU computing with CUDA and PyTorch
+  Topic covered:
+    Linux shell
+    File system
+    Processes
+    Networking
+    Bash scripting
+    Package management
+    Permissions
+    System services
 - TryHackMe:
     Completed: Linux Fundamentals Model
 - picoCTF:
@@ -29,11 +26,14 @@ Hands-on Practice:
 
 Challenges & Troubleshooting:
 - Challenge 1
-    Many commands require distinguishing whether root privileges are involved.
-    Initially, I thought:
-    ```bash, ssh, apt```
-    could use without sudo.
+  Problem:
+    I repeatedly received a "Permission denied" error when modifying system directories.
+    Initially, I thought all Linux commands could be executed as a normal user.
+    Root Cause: Some directories require root privileges.
   Solution:
+    Checked file ownership using "ls -l" and used "sudo" only when administrative privileges were required.
+  Learned:
+    Understanding Linux permissions is more important than memorizing commands.
 - Challenge 2
     Initially, I thought:
     ```bash, cat file```
