@@ -30,7 +30,11 @@
   - Utilities: `cat`, `less`, `head`, `tail`, `file`, `strings`
 
 ## Hands-on Practice:
-  - picoCTF Challenge Completed: 
+  - picoCTF Challenge Completed:
+    - Text Transformations Challenge:<br>
+        - Practiced reversing common text transformations using Linux command-line utilities.
+        - Applied tools including `base64`, `tr`, `rev`, and `xxd` to decode, translate, and manipulate text.
+        - Strengthened understanding of standard input/output, pipelines, and choosing appropriate commands for different text-processing tasks
 
 ## Challenges & Troubleshooting:
 ### Challenge 1
