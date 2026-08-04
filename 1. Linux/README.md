@@ -51,7 +51,9 @@
   Solution:
 
 ## Key Takeaways:
-  Rote memorization is insufficient for fully mastering Linux commands; practical application leads to a more solid understanding, while resources like man pages and other documentation help reinforce their use.
+  - Linux proficiency is a fundamental cybersecurity skill because many servers, cloud environments, and security tools run on Linux.
+  - Understanding file permissions, processes, networking, and command-line utilities is more valuable than simply memorizing commands.
+  - Hands-on practice through CTF challenges reinforced concepts that are difficult to learn from theory alone.
 
 ## Future Improvements：
   
