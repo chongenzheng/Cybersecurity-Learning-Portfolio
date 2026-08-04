@@ -23,44 +23,17 @@
 ## Commands Learned
   - Navigation: ```pwd```,```cd```,```ls```
   - File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
-  - Searching
+  - Searching: ```find```, ```grep```, ```locate```
+  - Permissions: ```chmod```, ```chown```
+  - Networking: ```ssh```, ```scp```, ```netstat```
+  - Compression: ```zip```, ```unzip```, ```tar```
+  - Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
 
-find
-grep
-locate
-
-Permissions
-
-chmod
-chown
-
-Networking
-
-ssh
-scp
-netstat
-ss
-
-Compression
-
-zip
-unzip
-tar
-
-Utilities
-
-cat
-less
-head
-tail
-file
-strings
-
-Hands-on Practice:
+## Hands-on Practice:
 - picoCTF Challenge Completed:
 - 
 
-Challenges & Troubleshooting:
+## Challenges & Troubleshooting:
 - Challenge 1
   - Problem:
     I repeatedly received a "Permission denied" error when modifying system directories.
@@ -77,8 +50,8 @@ Challenges & Troubleshooting:
     However, some challenge files were binary.
   Solution:
 
-Key Takeaways:
+## Key Takeaways:
   Rote memorization is insufficient for fully mastering Linux commands; practical application leads to a more solid understanding, while resources like man pages and other documentation help reinforce their use.
 
-Future Improvements：
+## Future Improvements：
   
