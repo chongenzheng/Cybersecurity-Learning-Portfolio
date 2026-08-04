@@ -56,4 +56,6 @@
   - Hands-on practice through CTF challenges reinforced concepts that are difficult to learn from theory alone.
 
 ## Future Improvements：
+- Study system logs
+- Learn common Linux security hardening techniques
   
