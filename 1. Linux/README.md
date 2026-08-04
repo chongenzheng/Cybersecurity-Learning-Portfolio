@@ -3,7 +3,7 @@ Learning Objectives：
 
 Knowledge Sources： 
 - Master Course：
-  -Topic covered:
+-   Topic covered:
     - Linux shell
     File system
     Processes
