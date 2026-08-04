@@ -2,7 +2,7 @@
   This module focuses on building a solid Linux foundation for cybersecurity.
 
 ## Knowledge Sources： 
-- Master Course：
+### Master Course：
   - Topic covered:
     - Linux shell
     - File system
@@ -12,29 +12,28 @@
     - Package management
     - Permissions
     - System services
-- TryHackMe:
+### TryHackMe:
     - Completed: Linux Fundamentals Model
-- picoCTF:
+### picoCTF:
     - Completed: General Skill
-- Documentation:
+### Documentation:
     - Linux man pages
     - GNU Core Utilities Documentation
 
 ## Commands Learned
-  - Navigation: ```pwd```,```cd```,```ls```
-  - File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
-  - Searching: ```find```, ```grep```, ```locate```
-  - Permissions: ```chmod```, ```chown```
-  - Networking: ```ssh```, ```scp```, ```netstat```
-  - Compression: ```zip```, ```unzip```, ```tar```
-  - Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
+  ### Navigation: ```pwd```,```cd```,```ls```
+  ### File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
+  ### Searching: ```find```, ```grep```, ```locate```
+  ### Permissions: ```chmod```, ```chown```
+  ### Networking: ```ssh```, ```scp```, ```netstat```
+  ### Compression: ```zip```, ```unzip```, ```tar```
+  ### Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
 
 ## Hands-on Practice:
-- picoCTF Challenge Completed:
-- 
+### picoCTF Challenge Completed: 
 
 ## Challenges & Troubleshooting:
-- Challenge 1
+### Challenge 1
   - Problem:  I repeatedly received a "Permission denied" error when modifying system directories.
     Initially, I thought all Linux commands could be executed as a normal user.
     Root Cause: Some directories require root privileges.
@@ -42,7 +41,7 @@
     Checked file ownership using ```ls -l``` and used ```sudo``` only when administrative privileges were required.
   - Learned:
     Understanding Linux permissions is more important than memorizing commands.
-- Challenge 2
+### Challenge 2
     Initially, I thought:
     ```bash, cat file```
     could inspect every file.
