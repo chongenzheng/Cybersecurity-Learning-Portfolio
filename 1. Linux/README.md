@@ -1,6 +1,6 @@
 ## Learning Objectives：
   This module focuses on building a solid Linux foundation for cybersecurity.
-
+---
 ## Knowledge Sources： 
 ### Master Course：
   - Topic covered:
