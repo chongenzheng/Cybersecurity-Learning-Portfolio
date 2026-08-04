@@ -21,4 +21,5 @@
   5. Key Takeaways
   6. Future Improvements
 
-#### LinkedIn: www.linkedin.com/in/chongen-zheng-b4a36b22b
+#### About Me<br>
+LinkedIn: www.linkedin.com/in/chongen-zheng-b4a36b22b
