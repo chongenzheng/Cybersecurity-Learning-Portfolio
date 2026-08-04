@@ -35,8 +35,7 @@
 
 ## Challenges & Troubleshooting:
 - Challenge 1
-  - Problem:
-    I repeatedly received a "Permission denied" error when modifying system directories.
+  - Problem:  I repeatedly received a "Permission denied" error when modifying system directories.
     Initially, I thought all Linux commands could be executed as a normal user.
     Root Cause: Some directories require root privileges.
   - Solution:
