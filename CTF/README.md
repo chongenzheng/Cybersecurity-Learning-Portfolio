@@ -9,7 +9,7 @@ The goal of these write-ups is to demonstrate my problem-solving process, comman
   - PicoCTF
   - (Future) Hack The Box
 
-## Repository Structure
+## Folder Structure
 ### CTF
   - Beginner
     - Specific projects
@@ -17,3 +17,11 @@ The goal of these write-ups is to demonstrate my problem-solving process, comman
     - Specific projects
   - Advanced
     - Specific projects
+
+## Project File Structure
+- Challenge Name
+- Objective
+- Initial Analysis
+- Solution Process
+- Challenges Encountered
+- Lessons Learned
