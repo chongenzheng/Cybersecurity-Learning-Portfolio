@@ -10,7 +10,7 @@ The goal of these write-ups is not only to record the final solution but also to
   - (Future) Hack The Box
 
 ## Repository Structure
-CTF/
-├── Beginner/
-├── Intermediate/
-└── Advanced/
+- CTF
+  - Beginner
+  - Intermediate
+  - Advanced
