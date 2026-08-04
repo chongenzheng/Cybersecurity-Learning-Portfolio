@@ -21,13 +21,13 @@
     - GNU Core Utilities Documentation
 
 ## Commands Learned
-  ### Navigation: ```pwd```,```cd```,```ls```
-  ### File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
-  ### Searching: ```find```, ```grep```, ```locate```
-  ### Permissions: ```chmod```, ```chown```
-  ### Networking: ```ssh```, ```scp```, ```netstat```
-  ### Compression: ```zip```, ```unzip```, ```tar```
-  ### Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
+  - Navigation: ```pwd```,```cd```,```ls```
+  - File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
+  - Searching: ```find```, ```grep```, ```locate```
+  - Permissions: ```chmod```, ```chown```
+  - Networking: ```ssh```, ```scp```, ```netstat```
+  - Compression: ```zip```, ```unzip```, ```tar```
+  - Utilities: ```cat```, ```less```, ```head```, ```tail```, ```file```, ```strings```
 
 ## Hands-on Practice:
 ### picoCTF Challenge Completed: 
