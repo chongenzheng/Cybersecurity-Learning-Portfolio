@@ -1,7 +1,7 @@
-Learning Objectives：
+## Learning Objectives：
   This module focuses on building a solid Linux foundation for cybersecurity.
 
-Knowledge Sources： 
+## Knowledge Sources： 
 - Master Course：
   - Topic covered:
     - Linux shell
@@ -21,17 +21,9 @@ Knowledge Sources：
     - GNU Core Utilities Documentation
 
 ## Commands Learned
-  - Navigation: ```pwd``````cd``````ls```
-
-File Operations
-
-cp
-mv
-rm
-touch
-mkdir
-
-Searching
+  - Navigation: ```pwd```,```cd```,```ls```
+  - File Operations: ```cp```, ```mv```, ```rm```, ```touch```, ```mkdir```
+  - Searching
 
 find
 grep
