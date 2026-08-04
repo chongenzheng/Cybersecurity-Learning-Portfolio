@@ -31,7 +31,7 @@ Challenges & Troubleshooting:
     Initially, I thought all Linux commands could be executed as a normal user.
     Root Cause: Some directories require root privileges.
   - Solution:
-      Checked file ownership using ```ls -l``` and used ```sudo``` only when administrative privileges were required.
+    Checked file ownership using ```ls -l``` and used ```sudo``` only when administrative privileges were required.
   - Learned:
     Understanding Linux permissions is more important than memorizing commands.
 - Challenge 2
