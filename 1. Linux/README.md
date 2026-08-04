@@ -20,6 +20,50 @@ Knowledge Sources：
     - Linux man pages
     - GNU Core Utilities Documentation
 
+## Commands Learned
+  - Navigation: ```pwd``````cd``````ls```
+
+File Operations
+
+cp
+mv
+rm
+touch
+mkdir
+
+Searching
+
+find
+grep
+locate
+
+Permissions
+
+chmod
+chown
+
+Networking
+
+ssh
+scp
+netstat
+ss
+
+Compression
+
+zip
+unzip
+tar
+
+Utilities
+
+cat
+less
+head
+tail
+file
+strings
+
 Hands-on Practice:
 - picoCTF Challenge Completed:
 - 
