@@ -13,15 +13,15 @@
     - Permissions
     - System services
 ### TryHackMe:
-    - Completed: Linux Fundamentals Model
+- Completed: Linux Fundamentals Model
 ### picoCTF:
-    - Completed: General Skill
+- Completed: General Skill
 ### Documentation:
-    - Linux man pages
-    - GNU Core Utilities Documentation
+- Linux man pages
+- - GNU Core Utilities Documentation
 
 ## Commands Learned
-  - Navigation: `pwd`,`cd`,`ls`
+  - Navigation: `pwd`, `cd`, `ls`
   - File Operations: `cp`, `mv`, `rm`, `touch`, `mkdir`
   - Searching: `find`, `grep`, `locate`
   - Permissions: `chmod`, `chown`
@@ -34,8 +34,8 @@
 
 ## Challenges & Troubleshooting:
 ### Challenge 1
-  - Problem:  I repeatedly received a "Permission denied" error when modifying system directories.
-    Initially, I thought all Linux commands could be executed as a normal user.
+  - Problem: ··I repeatedly received a "Permission denied" error when modifying system directories.
+    Initially, I thought all Linux commands could be executed as a normal user.··
     Root Cause: Some directories require root privileges.
   - Solution:
     Checked file ownership using `ls -l` and used `sudo` only when administrative privileges were required.
