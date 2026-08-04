@@ -37,16 +37,14 @@
   - Problem: <br>
       I repeatedly received a "Permission denied" error when modifying system directories.
       Initially, I thought all Linux commands could be executed as a normal user.<br>
-      Root Cause: Some directories require root privileges.
+      ```Root Cause: Some directories require root privileges.```
   - Solution:<br>
     Checked file ownership using `ls -l` and used `sudo` only when administrative privileges were required.
   - Learned:<br>
     Understanding Linux permissions is more important than memorizing commands.
 ### Challenge 2
-    Initially, I thought:
-    ```bash, cat file```
-    could inspect every file.
-    However, some challenge files were binary.
+**Problem:<br>**
+    Some challenge files could not be interpreted correctly using `cat`. Instead of readable text, the output appeared as unreadable characters.
   Solution:
 
 ## Key Takeaways:
