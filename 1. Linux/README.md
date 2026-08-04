@@ -7,18 +7,18 @@ Knowledge Sources：
     - Linux shell
     - File system
     - Processes
-    -Networking
-    -Bash scripting
-    -Package management
-    -Permissions
-    -System services
+    - Networking
+    - Bash scripting
+    - Package management
+    - Permissions
+    - System services
 - TryHackMe:
-    -Completed: Linux Fundamentals Model
+    - Completed: Linux Fundamentals Model
 - picoCTF:
-    -Completed: General Skill
+    - Completed: General Skill
 - Documentation:
-    -Linux man pages
-    -GNU Core Utilities Documentation
+    - Linux man pages
+    - GNU Core Utilities Documentation
 
 Hands-on Practice:
 - picoCTF Challenge Completed:
