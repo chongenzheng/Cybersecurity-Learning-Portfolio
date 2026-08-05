@@ -120,8 +120,6 @@ After further research, I understood that:
 - Bootloader loads the operating system kernel into RAM.
 - The kernel then initializes drivers, system services, and user processes.
 
----
-
 ### BIOS vs UEFI
 
 Initially, it was assumed that BIOS and UEFI were different operating systems.
