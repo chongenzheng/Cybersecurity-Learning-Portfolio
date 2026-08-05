@@ -11,6 +11,7 @@ This is a collection of my cybersecurity learning journey, hands-on labs, and CT
   - Cryptography
   - Forensics
   - Git
+  - Computer Fundamentals
 
 #### Each topic includes:
   1. Learning Objectives
