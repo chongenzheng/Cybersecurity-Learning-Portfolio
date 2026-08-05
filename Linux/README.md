@@ -31,7 +31,7 @@
 
 ## Hands-on Practice:
   - **Text Transformations:** Practiced Linux text-processing utilities (`base64`, `tr`, `rev`, `xxd`) to decode, transform, and manipulate encoded text.
-  - **BYTEMANCY-1:** Practiced ASCII conversion and automated repetitive text generation using Python to produce the required output.
+  - **BYTEMANCY:** Practiced ASCII conversion and automated repetitive text generation using Python to produce the required output.
 
 ## Challenges & Troubleshooting:
 ### Challenge 1
