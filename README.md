@@ -10,6 +10,7 @@ This is a collection of my cybersecurity learning journey, hands-on labs, and CT
   - Web Security
   - Cryptography
   - Forensics
+  - Git
 
 #### Each topic includes:
   1. Learning Objectives
