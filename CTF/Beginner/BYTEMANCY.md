@@ -1,4 +1,4 @@
-# BYTEMANCY-1
+# BYTEMANCY
 
 ## Objective
 Generate the required output from the given ASCII decimal value, and provide it in the expected format.
