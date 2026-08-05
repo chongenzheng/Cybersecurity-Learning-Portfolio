@@ -25,3 +25,5 @@ The goal of these write-ups is to demonstrate my problem-solving process, comman
 - Solution Process
 - Challenges Encountered
 - Lessons Learned
+- Future Improvements
+- Command Summary
