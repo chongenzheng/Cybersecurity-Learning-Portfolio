@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 ### Welcome!
 
-A collection of my cybersecurity learning journey, hands-on labs, and CTF write-ups.
+This is a collection of my cybersecurity learning journey, hands-on labs, and CTF write-ups.
 
 #### Learning Map:
   - Linux
