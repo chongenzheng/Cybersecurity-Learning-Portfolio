@@ -1,9 +1,7 @@
 # Cybersecurity-Portfolio
 ### Welcome!
 
-#### This repository documents my cybersecurity learning journey through:
-- TryHackMe
-- PicoCTF
+A collection of my cybersecurity learning journey, hands-on labs, and CTF write-ups.
 
 #### Learning Map:
   - Linux
@@ -20,6 +18,11 @@
   4. Challenges & Troubleshooting
   5. Key Takeaways
   6. Future Improvements
+
+#### CTF Write-ups
+- Beginner
+- Intermediate
+- Advanced
 
 #### About Me<br>
 LinkedIn: www.linkedin.com/in/chongen-zheng-b4a36b22b
