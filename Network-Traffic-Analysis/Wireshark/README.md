@@ -135,3 +135,6 @@ In future practice, I plan to:
 - Practice analyzing PCAP files from cybersecurity challenges
 - Learn how Wireshark is used in SOC investigations
 
+## Lab Screenshot
+
+![Wireshark Lab](http-traffic-graph.png)
