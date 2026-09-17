@@ -4,6 +4,7 @@
 This is a collection of my cybersecurity learning journey, hands-on labs, and CTF write-ups.
 
 #### Learning Map:
+##### Technical：
   - Linux
   - Windows
   - Networking
@@ -12,6 +13,8 @@ This is a collection of my cybersecurity learning journey, hands-on labs, and CT
   - Forensics
   - Git
   - Computer Fundamentals
+##### GRC：
+  - Security Audit
 
 #### Each topic includes:
   1. Learning Objectives
