@@ -54,6 +54,14 @@ This section contains practical exercises and simulated incident investigations 
 
 [TCP SYN Flood Attack Analysis](./TCP-SYN-Flood-Analysis/)
 
+---
+
+### Project 03: HTTP-Malware-Incident-Analysis
+
+**Project Documentation:**
+
+[HTTP-Malware-Incident-Analysis](./HTTP-Malware-Incident-Analysis/)
+
 ## 4. Challenges & Troubleshooting
 
 - Understanding Network Protocol Interactions
