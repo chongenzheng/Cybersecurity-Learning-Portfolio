@@ -9,9 +9,10 @@ Through cybersecurity training activities and practical exercises, I aim to deve
 ## 1. Learning Objectives
 
 - Understand the fundamentals of computer networking and TCP/IP.
-- Learn the functions of common network protocols, including TCP, UDP, DNS, HTTP, and ICMP.
+- Learn the functions of common network protocols, including TCP, UDP, DNS, HTTP, HTTPS, and ICMP.
 - Understand IP addressing, ports, and network communication.
 - Analyze network traffic and interpret protocol-related errors.
+- Understand common network attacks, including DoS, DDoS, and SYN Flood attacks.
 - Develop foundational network troubleshooting and incident investigation skills.
 
 ## 2. Knowledge Sources
@@ -22,49 +23,64 @@ Through cybersecurity training activities and practical exercises, I aim to deve
 - TCP/IP networking concepts
 - DNS and domain name resolution
 - UDP and ICMP protocols
+- TCP three-way handshake
+- Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) attacks
 - Network traffic analysis
 - Cybersecurity incident investigation
 
-**Tools**
+**Tools and Resources**
 
 - tcpdump (provided traffic logs)
+- Wireshark (provided TCP/HTTP logs)
+- Cybersecurity incident report exercises
 
 Additional learning resources and tools will be documented as I progress.
 
 ## 3. Hands-on Practice & Projects
 
-This section contains practical exercises and case studies that apply networking concepts to cybersecurity scenarios.
+This section contains practical exercises and simulated incident investigations that apply networking concepts to cybersecurity scenarios.
+
+### Project 01: DNS and ICMP Traffic Analysis
 
 **Project Documentation:**
 
 [DNS and ICMP Traffic Analysis](./DNS-ICMP-Traffic-Analysis/)
 
+---
+
+### Project 02: TCP SYN Flood Attack Analysis
+
+**Project Documentation:**
+
+[TCP SYN Flood Attack Analysis](./TCP-SYN-Flood-Analysis/)
+
 ## 4. Challenges & Troubleshooting
 
-### Understanding Network Protocol Interactions
+- Understanding Network Protocol Interactions
 
-One challenge was understanding how different protocols interact during network communication.
+- Understanding TCP Connection Establishment
 
-### Identifying Potential Root Causes
-
-Another challenge was distinguishing between observed network errors and their underlying causes.
+- Distinguishing DoS from DDoS
 
 ## 5. Key Takeaways
 
 - Networking knowledge is essential for cybersecurity incident investigation.
-- Understanding network protocols helps identify communication failures.
-- Network traffic analysis can help narrow down potential causes of network-related incidents.
+- Understanding network protocols helps identify communication failures and suspicious traffic.
+- SYN Flood attacks exploit the TCP connection establishment process and can disrupt legitimate network access.
+- Network traffic analysis helps identify abnormal patterns and narrow down potential causes of security incidents.
 - Accurate incident reporting requires separating confirmed findings from possible explanations.
 
 ## 6. Future Improvements
 
 - [ ] Practice IP addressing and subnetting.
-- [ ] Strengthen my understanding of TCP connections and the three-way handshake.
+- [ ] Strengthen my understanding of TCP connections and connection states.
 - [ ] Learn to capture and filter packets using Wireshark.
 - [ ] Practice live network traffic analysis with tcpdump.
 - [ ] Investigate common DNS and network connectivity issues.
+- [ ] Study SYN cookies and connection rate limiting.
 - [ ] Explore network scanning and security assessment using Nmap.
 - [ ] Complete additional networking-related CTF challenges.
+- [ ] Conduct controlled network security experiments in an isolated lab environment.
 
 ---
 
