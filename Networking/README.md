@@ -68,7 +68,7 @@ This section contains practical exercises and simulated incident investigations 
 
 **Project Documentation:**
 
-[Network Hardening and Security Risk Assessment](./Network-Hardening-and-Security-Risk-Assessment/)
+[Network-Hardening-and-Security-Risk Assessment](./Network-Hardening-and-Security-Risk-Assessment/)
 
 ## 4. Challenges & Troubleshooting
 
