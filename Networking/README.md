@@ -62,6 +62,14 @@ This section contains practical exercises and simulated incident investigations 
 
 [HTTP-Malware-Incident-Analysis](./HTTP-Malware-Incident-Analysis/)
 
+---
+
+### Project 04: Network Hardening and Security Risk Assessment
+
+**Project Documentation:**
+
+[Network Hardening and Security Risk Assessment](./Network Hardening and Security Risk Assessment/)
+
 ## 4. Challenges & Troubleshooting
 
 - Understanding Network Protocol Interactions
