@@ -70,6 +70,15 @@ This section contains practical exercises and simulated incident investigations 
 
 [Network-Hardening-and-Security-Risk Assessment](./Network-Hardening-and-Security-Risk-Assessment/)
 
+---
+
+### Project 05: NIST Cybersecurity Framework: ICMP Flood Incident Analysis
+
+**Project Documentation:**
+
+[NIST Cybersecurity Framework: ICMP Flood Incident Analysis](./NIST-Cybersecurity-Framework:ICMP-Flood-Incident-Analysis/)
+
+
 ## 4. Challenges & Troubleshooting
 
 - Understanding Network Protocol Interactions
