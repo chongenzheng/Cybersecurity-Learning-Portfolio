@@ -90,9 +90,9 @@ The resulting score ranges from 1 to 9, with higher scores indicating greater pr
 
 | Risk | Likelihood | Severity | Priority |
 |---|---|---|---|
-| Business Email Compromise | 3 | 3 | 9 |
+| Business Email Compromise | 2 | 2 | 4 |
 | Compromised User Database | 2 | 3 | 6 |
-| Financial Records Leak | 2 | 2 | 4 |
+| Financial Records Leak | 3 | 3 | 9 |
 | Theft | 1 | 2 | 2 |
 | Supply Chain Disruption | 1 | 1 | 1 |
 
