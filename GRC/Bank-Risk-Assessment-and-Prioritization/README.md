@@ -199,6 +199,7 @@ Based on the risk assessment, the following improvements were identified:
 
 This project helped me understand how cybersecurity risk assessments support decision-making and resource prioritization.
 
+Initially, I underestimated the risks associated with publicly accessible financial records and overestimated the severity of business email compromise without sufficient supporting evidence. After comparing my assessment with the reference example, I learned that risk scoring should consider the operating environment, existing vulnerabilities, and potential business impact rather than relying only on general assumptions.
 One important lesson was recognizing the difference between **Likelihood** and **Severity**.
 
 Likelihood evaluates how probable a security event is, while severity measures the potential consequences if that event occurs.
